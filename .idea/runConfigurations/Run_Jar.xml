@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Jar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/target/rest-api-test-client-1.0-SNAPSHOT.jar" />
+    <option name="PROGRAM_PARAMETERS" value="10" />
+    <option name="WORKING_DIRECTORY" value="C:\Dev\repos\rest-api-test-client" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="rest-api-test-client [clean,package]" run_configuration_type="MavenRunConfiguration" />
+    </method>
+  </configuration>
+</component>
